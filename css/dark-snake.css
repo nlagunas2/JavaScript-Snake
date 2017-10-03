@@ -4,9 +4,9 @@ By Patrick Gillespie
 http://patorjk.com/games/snake
 */
 select {
-	border: black;
+	border: blue;
 	color: #3E2E44;
-	background: black;
+	background: purple;
 }
 
 button {
@@ -77,9 +77,9 @@ a.snake-link:hover {
 .snake-snakebody-block {
     margin: 0px;
     padding: 0px;
-    background-color: #3E2E44;
+    background-color: #3E2E52;
     position: absolute;
-    border: 0px solid black;
+    border: 0px solid blue;
     background-repeat: no-repeat;
 }
 
